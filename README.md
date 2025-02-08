@@ -1,5 +1,5 @@
 Bu proje bir otel yönetim projesidir.
-Video Linki:
+Video Linki: https://www.youtube.com/watch?v=GVdVfV0KqM4
 UML Diyagramları:
 ![UML](https://github.com/user-attachments/assets/cbaf5e9c-a5d0-4cc6-b90d-8a021ce594b8)
 ![USECASE](https://github.com/user-attachments/assets/a079547d-2d68-4349-a22a-eb3fbf0c5a56)
